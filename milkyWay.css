@@ -1,0 +1,20 @@
+/* Adds a background image of the Milky Way. Puts an upper bound on the width of <main>. */
+
+body {
+	margin: 0px;
+}
+main {
+	background-attachment: fixed;
+	/* Source: http://www.spitzer.caltech.edu/images/1540-ssc2006-02a-A-Cauldron-of-Stars-at-the-Galaxy-s-Center */
+	background-image: url('milkyWay.jpg');
+	background-repeat: repeat-y;
+	background-position: center top;
+	float: top;
+	margin: 0px auto;
+	/* Chosen to be the same as the width of the background image. */
+	max-width: 1024px;
+	padding: 5px;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-left: 10px;
+}
