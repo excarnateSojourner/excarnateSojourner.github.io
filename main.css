@@ -1,10 +1,15 @@
+a {
+	color: #00FF00;
+}
+
 body {
 	background-color: black;
 	color: white;
 }
 
-a {
-	color: #00FF00;
+/* Chosen to be the same as the width of the background image added by milkyWay.css. */
+main {
+	max-width: 1024px;
 }
 
 textarea {
