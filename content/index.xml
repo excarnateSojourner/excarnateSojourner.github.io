@@ -1,0 +1,23 @@
+<template>milky-way</template>
+<title>Contents</title>
+<created>2020-01-22</created>
+<modified>2021-10-31</modified>
+<main>
+	<h2>Contents</h2>
+		<h3>Convictions and opinions</h3>
+			<ul>
+				<li><p><a href='/abortion.html'>Abortion</a></p></li>
+				<li><p><a href='/thoughts/index.html'>Thoughts</a></p></li>
+				<li><p><a href='/yolo.html'>YOLO</a></p></li>
+			</ul>
+		<h3>Things other people made that I like</h3>
+			<ul>
+				<li><p><a href='/creators.html'>Podcasts, videos, web comics, etc</a></p></li>
+			</ul>
+	<h2>Contact</h2>
+		<ul>
+			<li><p><a href='https://joinmastodon.org/'>Mastodon</a>: <a href='https://mastodon.technology/@excarnateSojourner'>@excarnateSojourner@mastodon.technology</a></p></li>
+			<li><p><a href='https://diasporafoundation.org/'>diaspora*</a>: excarnatesojourner@d.consumium.org</p></li>
+		</ul>
+	<a href='https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit' class='hiddenLink'>&nbsp;</a>
+</main>

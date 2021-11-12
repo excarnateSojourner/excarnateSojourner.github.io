@@ -22,7 +22,7 @@ textarea {
 	width: 100%;
 }
 
-#hiddenLink {
+.hiddenLink {
 	color: black;
 	float: right;
 }
