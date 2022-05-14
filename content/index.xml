@@ -1,7 +1,7 @@
 <template>milky-way</template>
-<title>Contents</title>
+<title>excarnateSojourner</title>
 <created>2020-01-22</created>
-<modified>2021-10-31</modified>
+<modified>2022-05-13</modified>
 <main>
 	<h2>Contents</h2>
 		<h3>Convictions and opinions</h3>
@@ -14,10 +14,13 @@
 			<ul>
 				<li><p><a href='/creators.html'>Podcasts, videos, web comics, etc</a></p></li>
 			</ul>
+			<a href='https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit' class='hiddenLink'>&nbsp;</a>
 	<h2>Contact</h2>
 		<ul>
 			<li><p><a href='https://joinmastodon.org/'>Mastodon</a>: <a href='https://mastodon.technology/@excarnateSojourner'>@excarnateSojourner@mastodon.technology</a></p></li>
 			<li><p><a href='https://diasporafoundation.org/'>diaspora*</a>: excarnatesojourner@d.consumium.org</p></li>
+			<li><p>Reddit: <a href='https://old.reddit.com/u/excarnateSojourner'>u/excarnateSojourner</a></p></li>
+			<li><p><a href='https://en.wiktionary.org/wiki/Wiktionary:Main_Page'>Wiktionary</a>: <a href='https://en.wiktionary.org/wiki/User:ExcarnateSojourner'>User:ExcarnateSojourner</a></p></li>
 		</ul>
-	<a href='https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit' class='hiddenLink'>&nbsp;</a>
+		<p>Identifying information has been purposefully omitted.</p>
 </main>
