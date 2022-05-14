@@ -3,8 +3,8 @@ import re
 import sys
 
 TEMPLATE_DIR = 'templates'
-CONTENT_DIR = 'content'
-SERVED_DIR = 'served'
+CONTENT_DIR = 'html'
+SERVED_DIR = 'e'
 
 def main():
 	for file_ in os.listdir(CONTENT_DIR):
