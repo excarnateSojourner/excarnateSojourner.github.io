@@ -25,4 +25,5 @@ textarea {
 .hiddenLink {
 	color: black;
 	float: right;
+	text-decoration: none;
 }
