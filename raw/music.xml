@@ -3,25 +3,12 @@
 <created>2020-02-08</created>
 <modified>2020-02-09</modified>
 <main>
-		<h2>Playlists</h2>
-			<h3>Worship</h3>
-				<iframe src='https://open.spotify.com/embed/playlist/4flr5xgZDqJzZTUp9p3ARB' width='300' height='380' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
-			<h3>Words</h3>
-				<p>All my liked songs on Spotify with instrumentals removed.</p>
-				<iframe src='https://open.spotify.com/embed/playlist/29i32ij419KGB8iVKz3UqZ' width='300' height='380' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
-			<h3>Electronic Instrumentals</h3>
-				<iframe src='https://open.spotify.com/embed/playlist/01yuItrmRvgje410AsW6Vu' width='300' height='380' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
-		<h2>Artists</h2>
-			<h3>Casting Crowns</h3>
-				<p>Definitely Christian, but not usually what I would call praise music.</p>
-				<p><a href='https://castingcrowns.com/'>Website</a> | <a href='https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r'>Spotify</a></p>
-				<iframe src='https://open.spotify.com/embed/playlist/0xPzLRmFaMn2TDi4CfiSEW' width='300' height='380' frameborder='0' allowtransparency='true' allow='encrypted-media'></iframe>
-			<h3>KC Katalbas</h3>
-				<p>Indie artist.</p>
-				<p><a href='https://www.kckatalbas.com/new-page'>Website</a> | <a href='https://kckatalbas.bandcamp.com/'>Bandcamp</a> | <a href='https://www.youtube.com/user/hazyKC/playlists'>YouTube</a> | <a href='https://open.spotify.com/artist/3gr3k5T9V97x7ozSZ7DC1s'>Spotify</a></p>
-				<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/videoseries?list=PL1llJICGpF-EK89AG-xUl_z5sIACPTUfi&color=white&hl=en&rel=0' allow='encrypted-media' frameborder='0' allowfullscreen></iframe>
-			<h3>Jordan Taylor</h3>
-				<p>He has released one full album called Long Drive. Before that he also released an instrumental EP through a Kickstarter campaign, and while I don't think the full EP is available any more, he uploaded <a href='https://www.youtube.com/watch?v=vOPJb8u0zW0&list=PL8BQaZLKGoKygpFAZykqUVRRylOQjjcBh'>four of the tracks to YouTube</a>.</p>
-				<p><a href='https://www.blimeycow.com/longdrive'>Long Drive</a> | <a href='https://www.youtube.com/user/JordanMichaelTaylor/'>YouTube</a> | <a href='https://twitter.com/messy_jordan'>Twitter</a></p>
-				<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/videoseries?list=PL8BQaZLKGoKygpFAZykqUVRRylOQjjcBh&color=white&hl=en&rel=0' allow='encrypted-media' frameborder='0' allowfullscreen></iframe>
+	<p>These are a few indie artists I like.</p>
+	<h2>KC Katalbas</h2>
+		<p><a href='https://www.kckatalbas.com/new-page'>Website</a> | <a href='https://kckatalbas.bandcamp.com/'>Bandcamp</a> | <a href='https://www.youtube.com/user/hazyKC/playlists'>YouTube</a> | <a href='https://open.spotify.com/artist/3gr3k5T9V97x7ozSZ7DC1s'>Spotify</a></p>
+		<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/videoseries?list=PL1llJICGpF-EK89AG-xUl_z5sIACPTUfi&color=white&hl=en&rel=0' allow='encrypted-media' frameborder='0' allowfullscreen></iframe>
+	<h2>Jordan Taylor</h2>
+		<p>He has released one full album called Long Drive. Before that he also released an instrumental EP through a Kickstarter campaign, and while I don't think the full EP is available any more, he uploaded <a href='https://www.youtube.com/watch?v=vOPJb8u0zW0&list=PL8BQaZLKGoKygpFAZykqUVRRylOQjjcBh'>four of the tracks to YouTube</a>.</p>
+		<p><a href='https://www.blimeycow.com/longdrive'>Long Drive</a> | <a href='https://www.youtube.com/user/JordanMichaelTaylor/'>YouTube</a> | <a href='https://twitter.com/messy_jordan'>Twitter</a></p>
+		<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/videoseries?list=PL8BQaZLKGoKygpFAZykqUVRRylOQjjcBh&color=white&hl=en&rel=0' allow='encrypted-media' frameborder='0' allowfullscreen></iframe>
 </main>
