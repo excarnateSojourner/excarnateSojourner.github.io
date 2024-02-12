@@ -7,7 +7,8 @@
 		<h3>Things I have made or been a part of</h3>
 			<ul>
 				<li><p><a href='wiktionary.html'>Wiktionary quotes</a></p></li>
-				<li><p><a href='https://github.com/excarnateSojourner/wiktionary'>Wiktionary scripts</a></p></li>
+				<li><p><a href='https://github.com/excarnateSojourner/wiktionary-dumps'>Wiktionary dump scripts</a></p></li>
+				<li><p><a href='https://github.com/excarnateSojourner/wiktionary-bot'>Wiktionary bot scripts</a></p></li>
 				<li><p><a href='https://github.com/excarnateSojourner/kankriJS'>KankriJS, a web browser extension to replace profanity</a></p></li>
 				<li><p><a href='https://github.com/excarnateSojourner/aradia'>Aradia, a simple Python server</a></p></li>
 			</ul>
