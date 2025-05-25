@@ -1,33 +1,78 @@
-/* Chosen to be the same as the width of the background image added by milkyWay.css. */
-main {
-	max-width: 1024px;
-}
-
 a {
 	color: #00FF00;
 }
 
 blockquote {
-	font-size: 150%
+	margin: 0px;
 }
 
 blockquote:before {
 	content: open-quote;
-	font-size: 150%;
 }
 
 blockquote:after {
 	content: close-quote;
-	font-size: 150%;
 }
 
 body {
 	background-color: black;
 	color: white;
+	padding: 10px;
+}
+
+li, p, td {
+	font-size: 18px;
+}
+
+li {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+main {
+	margin: auto;
+}
+
+ol {
+	padding-left: 20px;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+td, th {
+	border: 1px solid white;
+	padding: 10px;
+}
+
+.big-quote {
+	font-size: 150%
+}
+
+.big-quote:before {
+	font-size: 150%;
+}
+
+.big-quote:after {
+	font-size: 150%;
+}
+
+.dictionary-term {
+	font-weight: bold;
 }
 
 .hiddenLink {
 	color: black;
 	float: right;
 	text-decoration: none;
+}
+
+.ipa {
+	font-family: monospace;
+	white-space: nowrap;
+}
+
+.work-title {
+	font-style: italic;
 }
