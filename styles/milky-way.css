@@ -16,9 +16,14 @@ main {
 	padding: 5px;
 }
 
-h1, h2, h3, h4, h5, h6, p, li, th, td {
+blockquote, h1, h2, h3, h4, h5, h6, p, li, th, td {
 	/* Black translucent background */
 	background-color: rgb(0,0,0,0.5);
 	margin-left: 10px;
 	width: fit-content;
+}
+
+/* Prevent double background */
+li blockquote, li p, td blockquote, td li, td p, th h1, th h2, th h3, th h4, th h5, th h6 {
+	background-color: transparent;
 }

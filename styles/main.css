@@ -2,8 +2,12 @@ a {
 	color: #00FF00;
 }
 
+blockquote, p {
+	max-width: 40em;
+}
+
 blockquote {
-	margin: 0px;
+	margin: 5px;
 }
 
 blockquote:before {
@@ -17,11 +21,8 @@ blockquote:after {
 body {
 	background-color: black;
 	color: white;
-	padding: 10px;
-}
-
-li, p, td {
 	font-size: 18px;
+	padding: 10px;
 }
 
 li {
@@ -33,8 +34,16 @@ main {
 	margin: auto;
 }
 
+nav {
+	margin: 16px;
+}
+
 ol {
 	padding-left: 20px;
+}
+
+p {
+	margin: 5px;
 }
 
 table {

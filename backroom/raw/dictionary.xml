@@ -5,23 +5,37 @@
 
 <main>
 	<p>Have you ever discovered that a word you thought you knew actually means something different? These are mine, and a few others I've heard of.</p>
-	<p>All actual pronunciations and definitions below are from the English Wiktionary, an online dictionary. They are licensed under the <a href='https://creativecommons.org/licenses/by-sa/3.0/'>Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. This information was created cooperatively by thousands of editors (<a href='https://en.wiktionary.org/wiki/Special:ListUsers?editsOnly=1&creationSort=1&limit=50'>complete list</a>). I have adapted the pronunciations to use <a href='https://youtu.be/gtnlGH055TA'>more accurate transcriptions of glides</a>. I also used Wiktionary to find quotes from other sources.</p>
+	<p>All IPA pronunciations, audio pronunciations, and definitions in the "Actual" columns below are from the English Wiktionary, an online dictionary. They are licensed under the <a href='https://creativecommons.org/licenses/by-sa/3.0/'>Creative Commons Attribution-ShareAlike 3.0 Unported License</a>. This information was created cooperatively by thousands of editors (<a href='https://en.wiktionary.org/wiki/Special:ListUsers?editsOnly=1&creationSort=1&limit=50'>complete list</a>). I have adapted the pronunciations to use <a href='https://youtu.be/gtnlGH055TA'>more accurate transcriptions of glides</a>. I also used Wiktionary to find quotes from other sources.</p>
 	<table>
 		<tr>
-			<th>Word</th>
-			<th>Part of speech</th>
-			<th>Expected pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
-			<th>Expected meaning</th>
-			<th>Actual pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
-			<th>Actual meanings</th>
-			<th>Example usage</th>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
 		</tr>
 		<tr>
-			<td><a href='https://en.wiktionary.org/wiki/acrid#English' class='dictionary-term'>acrid</a></td>
-			<td>adjective (comparable)</td>
-			<td><i>same as actual</i></td>
-			<td>Acidic</td>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+		</tr>
+	</table>
+
+	<h3><a href='https://en.wiktionary.org/wiki/acrid#English'>acrid</a></h3>
+	<h4>adjective (comparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td class='ipa'></td>
 			<td class='ipa'>/ˈækɹɪd/</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>Acidic</td>
 			<td>
 				<ol>
 					<li>Sharp and harsh, or bitter and not to the taste</li>
@@ -29,50 +43,89 @@
 					<li>Caustic; bitter; bitterly irritating</li>
 				</ol>
 			</td>
-			<td>
-				<blockquote>The cheapest way to clear logged woodland is to burn it, producing an <span class='dictionary-term'>acrid</span> cloud of foul white smoke that, carried by the wind, can cover hundreds, or even thousands, of square miles.</blockquote>
-				<p>&mdash;2013 June 29, "<a href='https://www.economist.com/asia/2013/06/29/unspontaneous-combustion'>Unspontaneous combustion</a>", in <span class='work-title'>The Economist</span>, volume 407, number 8842, page 29</p>
-			</td>
+		</tr>
+	</table>
+	<blockquote>The cheapest way to clear logged woodland is to burn it, producing an <span class='dictionary-term'>acrid</span> cloud of foul white smoke that, carried by the wind, can cover hundreds, or even thousands, of square miles.</blockquote>
+	<p>&mdash;2013 June 29, "<a href='https://www.economist.com/asia/2013/06/29/unspontaneous-combustion'>Unspontaneous combustion</a>", in <span class='work-title'>The Economist</span>, volume 407, number 8842, page 29</p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/becalm#English'>becalm</a></h3>
+	<h4>verb (transitive)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
 		</tr>
 		<tr>
-			<td><a href='https://en.wiktionary.org/wiki/becalm#English' class='dictionary-term'>becalm</a></td>
-			<td>verb (transitive)</td>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
 			<td class='ipa'>/bijˈkɑ(l)m/</td>
-			<td>To lull into a false sense of security</td>
 			<td class='ipa'>/bɪˈkɑm/</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>To lull into a false sense of security</td>
 			<td>
 				<ol>
 					<li>To deprive (a ship) of wind, so that it cannot move</li>
 				</ol>
 			</td>
+		</tr>
+	</table>
+	<blockquote>In the following two days, they made fast progress, strong easterly winds driving them down the Channel to where it opened out into the Atlantic; there, they were briefly <span class='dictionary-term'>becalmed</span>.</blockquote>
+	<p>&mdash;2011, Thomas Penn, <span class='work-title'>Winter King</span>, published 2012, page 214</p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/benevolent#English'>benevolent</a></h3>
+	<h4>adjective (comparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td class='ipa'>/bɛnəˈvowlənt/</td>
+			<td class='ipa'>/bəˈnɛvələnt/</td>
+		</tr>
+		<tr>
+			<th>Pronunciation (audio, Canada / US)</th>
+			<td></td>
 			<td>
-				<blockquote>In the following two days, they made fast progress, strong easterly winds driving them down the Channel to where it opened out into the Atlantic; there, they were briefly <span class='dictionary-term'>becalmed</span>.</blockquote>
-				<p>&mdash;2011, Thomas Penn, <span class='work-title'>Winter King</span>, Penguin, published 2012, page 214</p>
+				<audio controls>
+					<source src='https://upload.wikimedia.org/wikipedia/commons/5/52/En-us-benevolent.ogg'>
+				</audio>
 			</td>
 		</tr>
 		<tr>
-			<td><a href='https://en.wiktionary.org/wiki/benevolent#English' class='dictionary-term'>benevolent</a></td>
-			<td>adjective (comparable)</td>
-			<td class='ipa'>/bɛnəˈvowlənt/</td>
+			<th>Meanings</th>
 			<td>Malevolent</td>
-			<td class='ipa'>/bəˈnɛvələnt/</td>
 			<td>
 				<ol>
 					<li>Having a disposition to do good</li>
 					<li>Altruistic, charitable, good, just and fair</li>
 				</ol>
 			</td>
-			<td>
-				<blockquote>This bill was not a gift from a <span class='dictionary-term'>benevolent</span> legislature; it was a victory for the community which worked for its passage.</blockquote>
-				<p>&mdash;1989 December 24, Kevin M. Cathcart, “Homophobia Never Innocent”, in Gay Community News, volume 17, number 24, page 5</p>
-			</td>
+		</tr>
+	</table>
+	<blockquote>This bill was not a gift from a <span class='dictionary-term'>benevolent</span> legislature; it was a victory for the community which worked for its passage.</blockquote>
+	<p>&mdash;1989 December 24, Kevin M. Cathcart, "Homophobia Never Innocent", in Gay Community News, volume 17, number 24, page 5</p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/blessed#English'>blessed</a></h3>
+	<h4>adjective (comparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
 		</tr>
 		<tr>
-			<td><a href='https://en.wiktionary.org/wiki/blessed#English' class='dictionary-term'>blessed</a></td>
-			<td>adjective (comparable)</td>
-			<td><i>same as actual</i></td>
-			<td>Pious</td>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td class='ipa'></td>
 			<td class='ipa'>/ˈblɛsɪd/</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>Pious</td>
 			<td>
 				<ol>
 					<li>Having divine aid, or protection, or other blessing</li>
@@ -80,172 +133,479 @@
 					<li>Worthy of worship</li>
 				</ol>
 			</td>
-			<td>
-				<blockquote>Had I now had the sense to have gone back to Hull, and have gone home, I had been happy, and my father, as in our <span class='dictionary-term'>blessed</span> Saviour’s parable, had even killed the fatted calf for me; for hearing the ship I went away in was cast away in Yarmouth Roads, it was a great while before he had any assurances that I was not drowned.</blockquote>
-				<p>&mdash;1719, Daniel Defoe, <a href='https://www.gutenberg.org/ebooks/521' class='work-title'>Robinson Crusoe</a></p>
-			</td>
+		</tr>
+	</table>
+	<blockquote>Had I now had the sense to have gone back to Hull, and have gone home, I had been happy, and my father, as in our <span class='dictionary-term'>blessed</span> Saviour’s parable, had even killed the fatted calf for me; for hearing the ship I went away in was cast away in Yarmouth Roads, it was a great while before he had any assurances that I was not drowned.</blockquote>
+	<p>&mdash;1719, Daniel Defoe, <a href='https://www.gutenberg.org/ebooks/521' class='work-title'>Robinson Crusoe</a></p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/boutique#English'>boutique</a> (as in "boutique law firm")</h3>
+	<h4>adjective (incomparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
 		</tr>
 		<tr>
-			<td><a href='https://en.wiktionary.org/wiki/boutique#English' class='dictionary-term'>boutique</a> (as in "boutique law firm")</td>
-			<td>adjective (incomparable)</td>
-			<td><i>same as actual</i></td>
-			<td>A company which relies heavily on the value of its brand,rather than the quality of its product or service</td>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td></td>
 			<td class='ipa'>/buwˈtijk/</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>A company which relies heavily on the value of its brand,rather than the quality of its product or service</td>
 			<td>
 				<ol>
 					<li>Any company that has an exclusively smaller client base generally in a niche market or specializing in bespoke or custom-made products or services.</li>
 				</ol>
 			</td>
+		</tr>
+	</table>
+	<blockquote>To keep attracting clients, the law firm of the future just might turn into a legal <span class='dictionary-term'>boutique</span>, says Earle Yaffa, the managing director […]</blockquote>
+	<p>&mdash;1982, ABA Journal, volume 68, page 661</p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/catechize#English'>catechize</a></h3>
+	<h4>verb (transitive)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td></td>
+			<td class='ipa'>/ˈkætɪkajz/</td>
+		</tr>
+		<tr>
+			<th>Pronunciation (audio, Canada / US)</th>
+			<td></td>
 			<td>
-				<blockquote>To keep attracting clients, the law firm of the future just might turn into a legal <span class='dictionary-term'>boutique</span>, says Earle Yaffa, the managing director […]</blockquote>
-				<p>&mdash;1982, ABA Journal, volume 68, page 661</p>
+				<audio controls>
+					<source src='https://upload.wikimedia.org/wikipedia/commons/f/f7/En-us-catechize.ogg'>
+				</audio>
 			</td>
 		</tr>
 		<tr>
-			<td><a href='https://en.wiktionary.org/wiki/catechize#English' class='dictionary-term'>catechize</td>
-			<td>verb (transitive)</td>
-			<td><i>same as actual</i></td>
+			<th>Meanings</th>
 			<td>To include a work in, or add it to, the canon of Scripture</td>
-			<td class='ipa'>/ˈkætɪkajz/</td>
 			<td>
 				<ol>
 					<li>To give oral instruction, especially of religion; (specifically) by the formal question-and-answer method</li>
 					<li>To question at length</li>
 				</ol>
 			</td>
-			<td></td>
+		</tr>
+	</table>
+
+	<h3><a href='https://en.wiktionary.org/wiki/conclave#English'>conclave</a></h3>
+	<h4>noun (countable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>conclave</td>
-			<td>noun (countable)</td>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
 			<td></td>
-			<td>A recession in the side of a cliff, which can serve as a shelter.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td class='ipa'>/ˈkɑnˌklejv/</td>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>deft</td>
-			<td>adjective (comparable)</td>
+			<th>Pronunciation (audio, Canada / US)</th>
 			<td></td>
-			<td>Lacking elegance, precision, or care.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>
+				<audio controls>
+					<source src='https://upload.wikimedia.org/wikipedia/commons/2/2f/LL-Q1860_%28eng%29-Naomi_Persephone_Amethyst_%28NaomiAmethyst%29-conclave.wav'>
+				</audio>
+			</td>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>furtive</td>
-			<td>adjective (comparable)</td>
-			<td></td>
-			<td>Flirtatious.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<th>Meanings</th>
+			<td>A recession in the side of a cliff, which can serve as a shelter</td>
+			<td>
+				<ol>
+					<li>(<i>Roman Catholicism</i>) The set of apartments in which cardinals are secluded while the process to elect a pope takes place</li>
+					<li>A closed, private, or secret meeting, especially one of an ecclesiastical nature</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+	<blockquote>Now you are all dispersed and scattered: no discussions, no committees, little correspondence—and you yourself are ever brooding and ever in <span class='dictionary-term'>conclave</span>, with persons too who I know, for Stephen has told me so, are the preachers of violence […]</blockquote>
+	<p>&mdash;1845, Benjamin Disraeli, chapter III, in <a href='https://www.gutenberg.org/ebooks/3760'><span class='work-title'>Sybil</span> or <span class='work-title'>The Two Nations</span></a>, volume III, book V, <a href='https://archive.org/details/sybilortwonation03disr/page/40/mode/1up'>page 40</a></p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/deft#English'>deft</a></h3>
+	<h4>adjective (comparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>gestalt</td>
-			<td>noun (uncountable)</td>
-			<td class='ipa'>/dZEs"tAlt/</td>
-			<td>A mineral salt found in limestone deposits.</td>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
 			<td></td>
-			<td></td>
-			<td></td>
+			<td class='ipa'>/dɛft/</td>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>histrionic</td>
-			<td>adjective (comparable)</td>
+			<th>Pronunciation (audio, Canada / US)</th>
 			<td></td>
-			<td>So great as to be (preemptively) historically significant.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>
+				<audio controls>
+					<source src='https://upload.wikimedia.org/wikipedia/commons/9/95/En-us-deft.ogg'>
+				</audio>
+			</td>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>implacable</td>
-			<td>adjective (comparable)</td>
-			<td class='ipa'>/Im"plejs@bl/</td>
-			<td>Not able to be placed.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<th>Meanings</th>
+			<td>Lacking elegance, precision, or care</td>
+			<td>
+				<ol>
+					<li>Quick and neat in action; skillful</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+	<blockquote>Alvarez then got on the scoresheet after the hosts carved open the Huddersfield defence with some intricate passing before the Argentina forward's <span class='dictionary-term'>deft</span> finish rolled into the net.</blockquote>
+	<p>&mdash;2024 January 7, Gary Rose, "<a href='https://www.bbc.com/sport/football/67895100'>Manchester City 5-0 Huddersfield Town</a>", in <span class='work-title'>BBC Sport</span></p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/furtive#English'>furtive</a></h3>
+	<h4>adjective (comparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>intransigence</td>
-			<td>noun (uncountable)</td>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
 			<td></td>
-			<td>Misspelling of ''intransience'' (which is not actually used). The opposite of transience; the quality of being permanent and fixed.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td class='ipa'>/ˈfɝtɪv/</td>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>malevolent</td>
-			<td>adjective (comparable)</td>
+			<th>Pronunciation (audio, Canada / US)</th>
 			<td></td>
+			<td>
+				<audio controls>
+					<source src='https://upload.wikimedia.org/wikipedia/commons/d/d1/En-us-furtive.ogg'>
+				</audio>
+			</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>Flirtatious</td>
+			<td>
+				<ol>
+					<li>Done with evasive or guilty secrecy</li>
+					<li>Acquired by theft, or taken stealthily</li>
+					<li>Sly, stealthy</li>
+					<li>Inclined to steal; pilfering, thieving</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+	<blockquote>I noticed the same singular, and as it were, <span class='dictionary-term'>furtive</span> glance over the shoulder that had attracted my attention in the Cassino.</blockquote>
+	<p>&mdash;1824, Geoffrey Crayon [pseudonym; Washington Irving], "The Adventure of the Mysterious Stranger", in <a href='https://www.gutenberg.org/ebooks/13514' class='work-title'>Tales of a Traveller</a>, part 1 (Strange Stories), <a href='https://archive.org/details/talesoftraveller01irvirich/page/n100/mode/1up'>page 95</a></p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/gestalt#English'>gestalt</a></h3>
+	<h4>noun (uncountable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td class='ipa'>/dʒɛsˈtɑlt/</td>
+			<td class='ipa'>/ɡəˈʃtɔlt/</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>A mineral salt found in limestone deposits</td>
+			<td>
+				<ol>
+					<li>A collection of physical, biological, psychological or symbolic elements that creates a whole, unified concept or pattern which is other than the sum of its parts due to the relationships between the parts (of a character, personality, entity, or being)</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+
+	<h3><a href='https://en.wiktionary.org/wiki/histrionic#English'>histrionic</a></h3>
+	<h4>adjective (comparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td></td>
+			<td class='ipa'>/hɪstɹiˈɑnɪk/</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>So great as to be (preemptively) historically significant</td>
+			<td>
+				<ol>
+					<li>Of or relating to actors or acting</li>
+					<li>Excessively dramatic or emotional, especially with the intention to draw attention</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+	<blockquote>This lens (known as a <i>carello ottico</i> in Italian and a <i>travelling optique</i> in French) is used sparingly but effectively in <i>General Della Rovere</i> during the important bombardment scene inside the prison, which introduces [Vittorio] De Sica's most <span class='dictionary-term'>histrionic</span> speech.</blockquote>
+	<p>&mdash;2009, Peter Bondanella, "Neorealism’s Legacy to a New Generation, and the Italian Political Film", in <span class='work-title'>A History of Italian Cinema</span>, part 3 (The Golden Age of Italian Cinema), <a href='https://books.google.com/books?id=HgOl4LWswLQC&pg=PA220'>pages 219–220</a></p>
+
+		<h3><a href='https://en.wiktionary.org/wiki/implacable#English'>implacable</a></h3>
+		<h4>adjective (comparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td class='ipa'>/ɪmˈplejsəbl/</td>
+			<td class='ipa'>/ɪmˈplækəbəl/</td>
+		</tr>
+		<tr>
+			<th>Pronunciation (audio, Canada / US)</th>
+			<td></td>
+			<td>
+				<audio controls>
+					<source src='https://upload.wikimedia.org/wikipedia/commons/0/0a/En-us-implacable.ogg'>
+				</audio>
+			</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>Not able to be placed</td>
+			<td>
+				<ol>
+					<li>Not able to be placated or appeased</li>
+					<li>Impossible to prevent or stop; inexorable, unrelenting, unstoppable</li>
+					<li>Adamant; immovable</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+	<td><blockquote>The battleships <i>Washington</i> and <i>South Dakota</i> pushed through the sea with an <span class='dictionary-term'>implacable</span> ease.</blockquote>
+	<p>&mdash;2011, James D. Hornfischer, "The Giants Ride", in <span class='work-title'>Neptune’s Inferno: The U.S. Navy at Guadalcanal</span>, trade paperback edition, 2012, <a href='https://books.google.com/books?id=oPE5VMv1NnkC&pg=PR274'>page 345</a></p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/intransigence#English'>intransigence</a></h3>
+	<h4>noun (uncountable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td class='ipa'>/ɪnˈtʃɹæn.zɪ.dʒəns/</td>
+			<td class='ipa'>/ɪnˈtɹæn.sɪ.dʒəns/</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>The opposite of transience; the quality of being permanent and fixed</td>
+			<td>
+				<ol>
+					<li>Unwillingness to change one's views or to agree</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+	<blockquote>Meanwhile, we have encouraged and supported efforts to reach a political settlement in Afghanistan which would lead to a withdrawal of Soviet forces from that country and meet the interests of all concerned. It is Soviet <span class='dictionary-term'>intransigence</span> that has kept those efforts from bearing fruit.</blockquote>
+	<p>&mdash;1981 January 16, Jimmy Carter, <a href='https://www.gutenberg.org/cache/epub/5045/pg5045-images.html' class='work-title'>State of the Union Address</a></p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/malevolent#English'>malevolent</a></h3>
+	<h4>adjective (comparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td class='ipa'>/mæləˈvowlənt/</td>
+			<td class='ipa'>/məˈlɛvələnt/</td>
+		</tr>
+		<tr>
+			<th>Pronunciation (audio, Canada / US)</th>
+			<td></td>
+			<td>
+				<audio controls>
+					<source src='https://upload.wikimedia.org/wikipedia/commons/e/e9/En-us-malevolent.ogg'>
+				</audio>
+			</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
 			<td>Benevolent</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>
+				<ol>
+					<li>Having or displaying ill will; wishing harm on others</li>
+					<li>Having an evil or harmful influence</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+	<blockquote>Vela, Javier Hernández and Lozano switched positions with a thrillingly <span class='dictionary-term'>malevolent</span> sense of purpose.</blockquote>
+	<p>&mdash;2018 June 17, Barney Ronay, "<a href='https://web.archive.org/web/20190805002657/https://www.theguardian.com/football/2018/jun/17/germany-mexico-world-cup-match-report'>Mexico’s Hirving Lozano stuns world champions Germany for brilliant win</a>", <span class='work-title'>The Guardian</span></p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/motley#English'>motley</a></h3>
+	<h4>adjective (comparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>motley</td>
-			<td>adjective (comparable)</td>
-			<td></td>
-			<td>Troublemaking; having little regard for others.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td class='ipa'></td>
+			<td class='ipa'>/ˈmɑtlij/</td>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>ostensibly</td>
-			<td>adverb (comparable)</td>
+			<th>Meanings</th>
+			<td>Troublemaking; having little regard for others</td>
+			<td>
+				<ol>
+					<li>Comprising greatly varied elements, to the point of incongruity.</li>
+					<li>Having many colours; variegated.</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+	<blockquote>Even such a boat as the <i>Mount Vernon</i> offered a total deck space so cramped as to leave secrecy or privacy well out of the question, even had the <span class='dictionary-term'>motley</span> and democratic assemblage of passengers been disposed to accord either.</blockquote>
+	<p>&mdash;1910, Emerson Hough, chapter II, in <a href='https://www.gutenberg.org/ebooks/11593' class='work-title'>The Purchase Price: Or The Cause of Compromise</a></p>
+
+	<h3><a href='https://en.wiktionary.org/wiki/ostensibly#English'>ostensibly</a></h3>
+	<h4>adverb (comparable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td class='ipa'></td>
+			<td class='ipa'>/ɑˈstɛn.sə.blij/</td>
+		</tr>
+		<tr>
+			<th>Pronunciation (audio, Canada / US)</th>
 			<td></td>
+			<td>
+				<audio controls>
+					<source src='https://upload.wikimedia.org/wikipedia/commons/4/46/En-us-ostensibly.ogg'>
+				</audio>
+			</td>
+		</tr>
+		<tr>
+			<th>Meanings</th>
 			<td>Extensively and ostentatiously</td>
-			<td></td>
-			<td></td>
-			<td>An actual instance of this misunderstanding was found by <a href='https://en.wiktionary.org/wiki/User:Qwertygiy'>Qwertygiy</a>, who <a href='https://discord.com/channels/408117631405522945/426460151516758018/1361028603604893848'>posted it</a> in the <a href='https://en.wiktionary.org/wiki/Wiktionary:Discord_server'>English Wiktionary Discord server</a> on 2025-04-13.</td>
+			<td>Seemingly, apparently, on the surface</td>
+		</tr>
+	</table>
+	<p><a href='https://en.wiktionary.org/wiki/User:Qwertygiy'>Qwertygiy</a>, found an instance of this misunderstanding in the wild (shown below).</p>
+	<img src='https://cdn.discordapp.com/attachments/426460151516758018/1361028603420082419/image.png'>
+
+	<h3><a href='https://en.wiktionary.org/wiki/palimpsest#English'>palimpsest</a></h3>
+	<h4>noun (countable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>palimpsest</td>
-			<td>noun (countable)</td>
-			<td></td>
-			<td>A sore that has broken open and become infected.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+			<td class='ipa'></td>
+			<td class='ipa'>/ˈpælɪmpsɛst/</td>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>palisade</td>
-			<td>noun (countable)</td>
+			<th>Pronunciation (audio, Canada / US)</th>
 			<td></td>
-			<td>A garden surrounding a palace or other large and beautiful building.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>
+				<audio controls>
+					<source src='https://upload.wikimedia.org/wikipedia/commons/4/44/En-us-palimpsest.ogg'>
+				</audio>
+			</td>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>phalanx</td>
-			<td>noun (countable)</td>
-			<td></td>
-			<td>A Tolkienian palantir.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<th>Meanings</th>
+			<td>A sore that has broken open and become infected</td>
+			<td>
+				<ol>
+					<li>A manuscript or document that has been erased or scraped clean, for reuse of the paper, parchment, vellum, or other medium on which it was written</li>
+					<li>Something bearing the traces of an earlier, erased form</li>
+					<li>A text with several layers of meaning, especially pertaining to different points in time</li>
+				</ol>
+			</td>
+		</tr>
+	</table>
+
+	<h3><a href='https://en.wiktionary.org/wiki/palisade#English'>palisade</a></h3>
+	<td>noun (countable)</td>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
 		</tr>
 		<tr>
-			<td class='dictionary-term'>posterity</td>
-			<td>noun (uncountable)</td>
-			<td></td>
-			<td>Public perception; reputation.</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
 		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>A garden surrounding a palace or other large and beautiful building</td>
+		</tr>
+	</table>
+
+	<h3><a href='https://en.wiktionary.org/wiki/phalanx#English'>phalanx</a></td>
+	<h4>noun (countable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>A Tolkienian <a href='https://en.wikipedia.org/wiki/Palant%C3%ADr'>palantir</a></td>
+		</tr>
+	</table>
+
+	<h3><a href='https://en.wiktionary.org/wiki/posterity#English'>posterity</a></h3>
+	<h4>noun (uncountable)</h4>
+	<table>
+		<tr>
+			<th></th>
+			<th>Expected</th>
+			<th>Actual</th>
+		</tr>
+		<tr>
+			<th>Pronunciation (<a href='https://en.wikipedia.org/wiki/International_Phonetic_Alphabet'>IPA</a>, Canada / US)</th>
+		</tr>
+		<tr>
+			<th>Meanings</th>
+			<td>Public perception; reputation</td>
+		</tr>
+	</table>
+
 		<tr>
 			<td class='dictionary-term'>precocious</td>
 			<td>adjective (comparable)</td>
 			<td></td>
-			<td>Mischievous or meddlesome, but in an endearing and largely harmless way.</td>
+			<td>Mischievous or meddlesome, but in an endearing and largely harmless way</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -263,7 +623,7 @@
 			<td class='dictionary-term'>provenance</td>
 			<td>noun (uncountable)</td>
 			<td></td>
-			<td>Pomp and circumstance.</td>
+			<td>Pomp and circumstance</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -281,7 +641,7 @@
 			<td class='dictionary-term'>putative</td>
 			<td>adjective (incomparable)</td>
 			<td></td>
-			<td>Punitive.</td>
+			<td>Punitive</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -289,7 +649,7 @@
 		<tr>
 			<td class='dictionary-term'>spatchcock</td>
 			<td></td>
-			<td>To partially cook by boiling.</td>
+			<td>To partially cook by boiling</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -312,7 +672,7 @@
 		<tr>
 			<td class='dictionary-term'>steppe</td>
 			<td></td>
-			<td>A region of mountainous, rocky terrain.</td>
+			<td>A region of mountainous, rocky terrain</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -321,7 +681,7 @@
 		<tr>
 			<td class='dictionary-term'>terrace</td>
 			<td></td>
-			<td>A low, wooden fence.</td>
+			<td>A low, wooden fence</td>
 			<td></td>
 			<td></td>
 			<td></td>
@@ -330,7 +690,7 @@
 		<tr>
 			<td class='dictionary-term'>weevil</td>
 			<td></td>
-			<td>Weasel.</td>
+			<td>Weasel</td>
 			<td></td>
 			<td></td>
 			<td></td>
