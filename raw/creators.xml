@@ -1,4 +1,4 @@
-<template>main</template>
+<template>milky-way</template>
 <title>Creators</title>
 <created>20-01-25</created>
 <modified>20-02-09</modified>
@@ -28,7 +28,7 @@
 			<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/videoseries?list=UU2C_jShtL725hvbm1arSV9w&color=white&hl=en&rel=0' allow='encrypted-media' frameborder='0' allowfullscreen></iframe>
 		<h3>PBS Idea Channel</h3>
 			<p>Stopped making new content in 2017, but has a large backlog.</p>
-			<p><a href='https://www.pbs.org/show/idea-channel/'>Website</a> | <a href='https://www.youtube.com/channel/UC3LqW4ijMoENQ2Wv17ZrFJA'>YouTube</a>
+			<p><a href='https://www.pbs.org/show/idea-channel/'>Website</a> | <a href='https://www.youtube.com/channel/UC3LqW4ijMoENQ2Wv17ZrFJA'>YouTube</a></p>
 			<iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/videoseries?list=PLtHP6qx8VF7eIWKSZIbqzvK_2j2H1KpD8&color=white&hl=en&rel=0' allow='encrypted-media' frameborder='0' allowfullscreen></iframe>
 		<h3>Smarter Every Day</h3>
 			<p>Mostly science.</p>

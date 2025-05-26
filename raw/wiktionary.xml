@@ -1,4 +1,4 @@
-<template>main</template>
+<template>milky-way</template>
 <title>Wiktionary</title>
 <created>2022-09-21</created>
 <modified>2023-06-19</modified>
@@ -20,7 +20,7 @@
 	<p>&mdash; <a href='https://en.wiktionary.org/wiki/Wiktionary:WF'>Wonderfool</a> (as <a href='https://en.wiktionary.org/w/index.php?title=User:Skisckis&redirect=no'>Skisckis</a>) in <a href='https://en.wiktionary.org/w/index.php?title=Wiktionary%3ATodo%2Fphrases+not+linked+to+from+components%2F2022-09%2FComplicated+or+possibly+crap&date-range-to=2023-05-13&tagfilter=&action=history'>an edit summary</a> about an hour after the <a href='https://en.wiktionary.org/wiki/Talk:imp-pole#RFV_discussion:_April%E2%80%93May_2023'>deletion</a> of the entry <i>imp-pole</i>.</p>
 	<h3>See also</h3>
 	<ul>
-		<li><p><a href='https://en.wiktionary.org/wiki/Wiktionary:Bad jokes and other deleted nonsense'>Wiktionary:Bad jokes and other deleted nonsense</a></p></li>
+		<li><a href='https://en.wiktionary.org/wiki/Wiktionary:Bad jokes and other deleted nonsense'>Wiktionary:Bad jokes and other deleted nonsense</a></li>
 	</ul>
 
 	<h2>Superlatives</h2>
@@ -43,9 +43,9 @@
 	<p>A collective noun is a term for a collection of a particular type of thing, like <i>pride</i> in "a pride of lions".
 	<p>Wiktionary had three different lists of collective nouns, so I <a href='https://en.wiktionary.org/wiki/User:ExcarnateSojourner/Collective nouns'>combined them</a>. But the lists included many terms that were very unlikely to actually be used outside of trivia, and would still be very esoteric even if they were. These are a few of the least believable ones I found.</p>
 	<ul>
-		<li><p>a <a href='https://en.wiktionary.org/wiki/tabernacle#English'>tabernacle</a> of bakers</p></li>
-		<li><p>a holiness of donuts</p></li>
-		<li><p>A swirl of <a href='https://en.wiktionary.org/wiki/paisley#English'>paisleys</a></p></li>
-		<li><p>A <a href='https://en.wiktionary.org/wiki/malapertness#English'>malapertness</a> of peddlers</p></li>
+		<li>a <a href='https://en.wiktionary.org/wiki/tabernacle#English'>tabernacle</a> of bakers</li>
+		<li>a holiness of donuts</li>
+		<li>A swirl of <a href='https://en.wiktionary.org/wiki/paisley#English'>paisleys</a></li>
+		<li>A <a href='https://en.wiktionary.org/wiki/malapertness#English'>malapertness</a> of peddlers</li>
 	</ul>
 </main>
