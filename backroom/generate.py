@@ -4,7 +4,7 @@ import sys
 
 TEMPLATE_DIR = 'templates'
 CONTENT_DIR = 'raw'
-SERVED_DIR = 'e'
+SERVED_DIR = '..'
 
 def main():
 	'''Fill in templates with page content and other parameters.

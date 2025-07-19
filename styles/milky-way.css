@@ -7,7 +7,7 @@ body {
 main {
 	background-attachment: fixed;
 	/* Source: http://www.spitzer.caltech.edu/images/1540-ssc2006-02a-A-Cauldron-of-Stars-at-the-Galaxy-s-Center */
-	background-image: url('milky-way.jpg');
+	background-image: url('../assets/milky-way.jpg');
 	background-repeat: repeat-y;
 	background-position: center top;
 	float: top;
