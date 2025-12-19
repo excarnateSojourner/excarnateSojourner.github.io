@@ -3,7 +3,7 @@ import re
 import sys
 
 TEMPLATE_DIR = 'templates'
-CONTENT_DIR = 'raw'
+CONTENT_DIR = 'pages'
 SERVED_DIR = '..'
 
 def main():
