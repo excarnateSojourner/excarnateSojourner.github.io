@@ -25,16 +25,49 @@
 	</ul>
 
 	<h2>Superlatives</h2>
+	<h3>Longest terms</h3>
+	<h4>Any language</h4>
 	<ul>
-		<li>
-			<p>The longest discussion ever: <a href='https://en.wiktionary.org/wiki/Wiktionary:Votes/pl-2009-06/Unified_Serbo-Croatian'>Wiktionary:Votes/pl-2009-06/Unified Serbo-Croatian</a></p>
-			<p>I searched (using a Python script) for level 2 sections in all talk namespaces and in projectspace (the <code>Wiktionary:</code> namespace), manually excluding projectspace pages that were not discussion pages.</p>
-			<p>I've learned that because of history and politics the classification of Bosnian, Serbian, Croatian, and Montenegrin as one language (Serbo-Croatian) or multiple is <a href='https://en.wikipedia.org/wiki/Talk:Serbo-Croatian/Archive_index'>controversial</a>. The Wiktionary vote failed due to a lack of consensus, meaning editors continued to treat them as multiple languages. Wikipedia, however, says they are four <a href='https://en.wikipedia.org/wiki/Serbo-Croatian'>"standard varieties"</a> which are all based on a <a href='https://en.wikipedia.org/wiki/Eastern_Herzegovinian_dialect'>single <em>subdialect</em></a> of the one language Serbo-Croatian</a>.</p>
-		</li>
-		<li>
-			<p>English term with multiple etymology sections that has the longest spelling: <a href='https://en.wiktionary.org/wiki/lash_oneself_to_the_mast'>lash oneself to the mast</a>.</p>
-		</li>
+		<li>The longest term: <a href='https://en.wiktionary.org/wiki/FlatB@InsideChesthigh-PalmAcross-FlatB@InsideChesthigh-PalmAcross_FlatB@InsideTrunkhigh-FlatB@InsideTrunkhigh_FlatB@DistalCenterChesthigh-PalmBack-FlatB@NearCenterChesthigh-PalmBack_FlatB@DistalCenterTrunkhigh-PalmBack-FlatB@NearCenterTrunkhigh-PalmBack' class='dictionary-term'>FlatB@InsideChesthigh-PalmAcross-FlatB@InsideChesthigh-PalmAcross FlatB@InsideTrunkhigh-FlatB@InsideTrunkhigh FlatB@DistalCenterChesthigh-PalmBack-FlatB@NearCenterChesthigh-PalmBack FlatB@DistalCenterTrunkhigh-PalmBack-FlatB@NearCenterTrunkhigh-PalmBack</a> (American Sign Language).</li>
+		<li>The longest spoken term, and the longest word (term without spaces): <a href='https://en.wiktionary.org/wiki/Unsupported_titles/Ancient_Greek_dish' class='dictionary-term long-words'>λοπαδοτεμαχοσελαχογαλεοκρανιολειψανοδριμυποτριμματοσιλφιοκαραβομελιτοκατακεχυμενοκιχλεπικοσσυφοφαττοπεριστεραλεκτρυονοπτοκεφαλλιοκιγκλοπελειολαγῳοσιραιοβαφητραγανοπτερύγων</a> (Ancient Greek).</li>
 	</ul>
+	<h4>English</h4>
+	<ul>
+		<li>The longest term: <a href='https://en.wiktionary.org/wiki/when_you%27re_up_to_your_neck_in_alligators,_it%27s_hard_to_remember_that_your_initial_objective_was_to_drain_the_swamp' class='dictionary-term'>when you're up to your neck in alligators, it's hard to remember that your initial objective was to drain the swamp</a>.</li>
+		<li>
+		The longest word (term without spaces): <a href='https://en.wiktionary.org/wiki/bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk' class='dictionary-term long-words'>bababadalgharaghtakamminarronnkonnbronntonnerronntuonnthunntrovarrhounawnskawntoohoohoordenenthurnuk</a>.
+			<ul>
+				<li>
+					If nonce words (words invented for a single occasion) are excluded: <a href='https://en.wiktionary.org/wiki/Tetaumatawhakatangihangakoauaotamateaurehaeaturipukapihimaungahoronukupokaiwhenuaakitanarahu' class='dictionary-term long-words'>Tetaumatawhakatangihangakoauaotamateaurehaeaturipukapihimaungahoronukupokaiwhenuaakitanarahu</a>.
+					<ul>
+						<li>
+							If the names of places and geographic features are excluded: <a href='https://en.wiktionary.org/wiki/diethylaminopropionylethoxycarbonylaminophenothiazine' class='dictionary-term long-words'>diethylaminopropionylethoxycarbonylaminophenothiazine</a>.
+							<ul>
+								<li>
+									If organic chemical compounds and enzymes are excluded: <a href='https://en.wiktionary.org/wiki/welcome-home-husband-though-never-so-drunk' class='dictionary-term'>welcome-home-husband-though-never-so-drunk</a>.
+									<ul>
+										<li>
+											If hyphens are counted as word-breaks: <a href='https://en.wiktionary.org/wiki/hepaticocholecystostcholecystenterostomy' class='dictionary-term long-words'>hepaticocholecystostcholecystenterostomy</a>.
+											<ul>
+												<li>
+													If medical words are excluded: <a href='https://en.wiktionary.org/wiki/supercalifragilisticexpialidociousness' class='dictionary-term'>supercalifragilisticexpialidociousness</a>. While <i>supercalifragilisticexpialidocious</i> was made famous by the 1964 movie <span class='work-title'>Mary Poppins</span>, the writers of the relevant song in the movie claim the word developed over many years at a summer camp!
+												</li>
+											</ul>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+			</ul>
+		</li>
+		<li>The longest term with multiple etymologies: <a href='https://en.wiktionary.org/wiki/lash_oneself_to_the_mast' class='dictionary-term'>lash oneself to the mast</a>.</li>
+	</ul>
+	<h3>Other</h3>
+		<p>The longest discussion ever is <a href='https://en.wiktionary.org/wiki/Wiktionary:Votes/pl-2009-06/Unified_Serbo-Croatian'>Wiktionary:Votes/pl-2009-06/Unified Serbo-Croatian</a>.</p>
+		<p>I searched (using a Python script) for level 2 sections in all talk namespaces and in projectspace (the <code>Wiktionary:</code> namespace), manually excluding projectspace pages that were not discussion pages.</p>
+		<p>I've learned that because of history and politics the classification of Bosnian, Serbian, Croatian, and Montenegrin as one language (Serbo-Croatian) or multiple is <a href='https://en.wikipedia.org/wiki/Talk:Serbo-Croatian/Archive_index'>controversial</a>. The Wiktionary vote failed due to a lack of consensus, meaning editors continued to treat them as multiple languages. Wikipedia, however, says they are four <a href='https://en.wikipedia.org/wiki/Serbo-Croatian'>"standard varieties"</a> which are all based on a <a href='https://en.wikipedia.org/wiki/Eastern_Herzegovinian_dialect'>single <em>subdialect</em></a> of the one language Serbo-Croatian</a>.</p>
 	<h3>See also</h3>
 	<ul>
 		<li><a href='https://en.wiktionary.org/wiki/Wiktionary:Statistics'>Wiktionary:Statistics</a></li>
