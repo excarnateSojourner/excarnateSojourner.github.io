@@ -77,6 +77,23 @@ td, th {
 	text-decoration: none;
 }
 
+.img-caption-table td {
+	border: none;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.img-caption-table img {
+	width: 100%;
+}
+
+.img-caption-table p {
+	margin-top: 0;
+	padding-top: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
 .long-words {
 	word-break: break-word;
 }
